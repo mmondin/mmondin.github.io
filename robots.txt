@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://mmondin.github.io/sitemap.xml
+Sitemap: https://mattiamondin.bond/sitemap.xml
